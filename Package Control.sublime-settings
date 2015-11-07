@@ -5,10 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
 		"ConvertToUTF8",
+		"Emmet",
+		"HTMLBeautify",
+		"IMESupport",
 		"Package Control",
 		"Theme - Flatland",
 		"Theme - Nexus",
+		"View In Browser",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets"
 	]
